@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pic-div{
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background-image: url('./pexel.png');
+    background-size:cover;
+    
+}
+
+.film{
+    
+    background-color: rgb(0, 0, 0, 0.6);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 2rem;
+    box-sizing: border-box;
+    padding-top: 5rem;
+    
+}
